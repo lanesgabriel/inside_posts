@@ -27,7 +27,7 @@ Certifique-se de que você tem instalado:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://https://github.com/lanesgabriel/inside_posts.git
+   git clone https://github.com/lanesgabriel/inside_posts.git
    cd inside_posts
 2. **Instale as dependências**:
    ```bash
